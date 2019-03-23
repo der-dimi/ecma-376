@@ -12,6 +12,11 @@ A collection of tools using various languages such as
 
 We start with data extraction.
 
+## Workbook summary
+
+Table of contens production, i.e., list of worksheets
+and relevant data ranges.
+
 ----------
-2019-03-11 (dimi)
+2019-03-23 (dimi)
 
